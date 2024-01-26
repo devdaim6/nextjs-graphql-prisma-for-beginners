@@ -2,6 +2,10 @@
 
 ### Welcome to the Next.js GraphQL Starter Pack! 🚀 This open-source project is tailored for beginners looking to learn GraphQL using Next.js and App Router. If you've been struggling with GraphQL integration or understanding its concepts, this starter pack is here to make your journey smoother.
 
+## Live Demo
+
+Check out the live demo [here](https://graphql-prisma.vercel.app).
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)

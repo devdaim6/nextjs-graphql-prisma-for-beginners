@@ -6,9 +6,9 @@
 
 Check out the live demo [here](https://graphql-prisma-for-beginners.vercel.app).
 
-## Deploy to Vercel With Just One Click 
+## Deploy to Vercel With Just One Click
 
-[![Deploy to Vercel](https://vercel.com/button)]([https://vercel.com/import/project?template=https://github.com/your-username/your-repo](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdevdaim6%2Fnextjs-graphql-prisma-for-beginners))
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/devdaim6/nextjs-graphql-prisma-for-beginners)
 
 ## Table of Contents
 

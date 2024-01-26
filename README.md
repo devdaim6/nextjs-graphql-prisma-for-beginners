@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-Check out the live demo [here](https://graphql-prisma.vercel.app).
+Check out the live demo [here](https://graphql-prisma-for-beginners.vercel.app).
 
 ## Table of Contents
 
